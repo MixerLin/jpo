@@ -3,7 +3,8 @@ class bingo
 
 	public static void main(String[] args)
 	{
-		System.out.print("Hello world");
+		int number = 100;
+		System.out.print("Hello world " + number);
 	}
 
 }
